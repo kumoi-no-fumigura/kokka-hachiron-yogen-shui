@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kokka-hachiron-yogen-shui",
  "yomi": "こっかはちろんよげんしゅうい",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "江戸中期",
+  "author": "賀茂真淵（1697〜1769）",
+  "desc": "国歌八論論争の中で、宗武の「余言」に続けて真淵が自説を述べたもの。末に清水浜臣の文化元年9月の識語がある。"
+ },
  "editions": [
   {
    "pid": "993379",
